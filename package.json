@@ -1,5 +1,5 @@
 {
-  "name": "R-Txzy",
+  "name": "RiyansyachYT bot",
   "version": "2.2.0",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -12,9 +12,9 @@
     "url": "git+https://github.com/ariffb25/stikerinbot.git"
   },
   "keywords": [
-    "whatsapp-bot"
+    "RiyansyachYT botz"
   ],
-  "author": "R-Txzy",
+  "author":"RiyansyachYT",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ariffb25/stikerinbot/issues"
